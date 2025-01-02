@@ -1,6 +1,6 @@
 # Phantom - Anime Project
 
-Phantom is a dynamic and user-friendly anime website designed to showcase trending, popular, and genre-specific anime. Built using HTML, CSS, Bootstrap, and JavaScript, Phantom provides anime enthusiasts with an intuitive platform to explore their favorite shows.
+Phantom is a Static and user-friendly anime website designed to showcase trending, popular, and genre-specific anime. Built using HTML, CSS, Bootstrap, and JavaScript, Phantom provides anime enthusiasts with an intuitive platform to explore their favorite shows.
 
 ## Features
 
