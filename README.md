@@ -5,19 +5,24 @@ Phantom is a dynamic and user-friendly anime website designed to showcase trendi
 ## Features
 
 ### 1. **Trending Now**
+
 Displays a carousel of the most popular anime of the current season, giving users a quick glimpse of what's trending.
 
 ### 2. **Popular Anime (All Time)**
+
 Highlights timeless anime favorites with a visually appealing layout.
 
 ### 3. **Genres**
+
 Dedicated pages for different genres like Action, Comedy, Magic, Romance, and Sports, making it easier for users to find shows based on their interests.
 
 ### 4. **Authentication**
+
 - **Login:** Allows users to log in to their accounts.
 - **Register:** Enables new users to sign up and create an account.
 
 ### 5. **Other Pages**
+
 - **About Us:** Information about the platform.
 - **Contact:** For inquiries or support.
 
@@ -50,7 +55,7 @@ Verify/        # Verification page
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/phantom-anime.git
+   https://github.com/kimchhea/Anime-website.git
    ```
 2. Open the project folder in your code editor.
 3. Open `main-page/index.html` in a browser to view the homepage.
@@ -63,6 +68,7 @@ Verify/        # Verification page
 - Add a search bar for easier navigation.
 
 ## Contributing
+
 Contributions are welcome! Please follow these steps:
 
 1. Fork the repository.
@@ -80,5 +86,11 @@ Contributions are welcome! Please follow these steps:
    ```
 5. Open a Pull Request.
 
+## License
 
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For any inquiries, feel free to contact us at [[your-email@example.com](mailto\:your-email@example.com)].
 
