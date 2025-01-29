@@ -65,7 +65,6 @@ Verify/        # Verification page
 - Add a backend for user authentication and data storage.
 - Integrate an API to fetch real-time anime data.
 - Implement user profiles and watchlists.
-- Add a search bar for easier navigation.
 
 
 
